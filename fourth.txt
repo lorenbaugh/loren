@@ -1,1 +1,2 @@
 contents of fourth.txt
+appended line to fourth.txt
